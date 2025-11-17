@@ -1,5 +1,6 @@
 # DYAS_Taller-de-Docker
 # DYAS – Taller de Docker
+**Por:** Julian Andres Vasquez Pedraza, Samuel Sabogal Espinel
 
 Este proyecto contiene el desarrollo completo del taller de Docker, donde se crean imágenes personalizadas, se construye una aplicación en Python con Flask + Redis y finalmente se despliega con Docker Compose utilizando Traefik como balanceador de carga.
 
